@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'redcarpet'
+# gem 'kramdown'
+gem 'pygments.rb'
